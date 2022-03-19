@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MatimonyApplication</string>
+
+    <string name="my_matches">My Matches</string>
+    <string name="des">5 Profiles pending with me</string>
+
+    <string name="yes">yes</string>
+    <string name="no">No</string>
+</resources>
